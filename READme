@@ -1,0 +1,15 @@
+Test Cases
+1)
+Input=6 and 36
+output=1
+36 is a power of 6
+
+2)
+Input=845 and 7
+output=0
+845 is not a power of 7
+
+3)
+Input=125 and 5
+output=1
+125 is a power of 5
